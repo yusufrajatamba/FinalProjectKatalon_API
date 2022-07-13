@@ -32,3 +32,7 @@ How To Uses :
 
     5. Open Report if you want see and share the result
 Test Scenarios are in excel to help you understand test case flow
+
+**Image Attachment**
+>> Total Test during Final Project for 3 Project (Mobile,Web, WEB API)
+<img src="https://github.com/yusufrajatamba/FinalProjectKatalon_API/blob/main/IMG/Screenshot%20(93).png?raw=true">
